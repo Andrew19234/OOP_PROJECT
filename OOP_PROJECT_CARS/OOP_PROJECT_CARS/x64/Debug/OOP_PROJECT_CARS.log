@@ -1,0 +1,33 @@
+﻿  FileName.cpp
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(78,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(83,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(88,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(96,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(489,7): warning C4101: 'i': unreferenced local variable
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(654,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(659,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(1492,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(1508,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(1680,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(1792,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(2157,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(2162,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(2167,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(2172,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(2603,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(2865,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3044,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3065,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3070,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3075,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3080,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3381,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3385,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3620,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(3624,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(558): warning C4715: 'Dealer::operator[]': not all control paths return a value
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(1136): warning C4715: 'Masina::operator[]': not all control paths return a value
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(1911): warning C4715: 'Incasare::operator[]': not all control paths return a value
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(2810): warning C4715: 'Client::operator[]': not all control paths return a value
+D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\OOP_PROJECT_CARS\FileName.cpp(1456): warning C4715: 'Fabrica::operator=': not all control paths return a value
+  OOP_PROJECT_CARS.vcxproj -> D:\fisiere d\facultate\AN 2- SEM 1\POO\OOP_PROJECT\OOP_PROJECT_CARS\x64\Debug\OOP_PROJECT_CARS.exe
